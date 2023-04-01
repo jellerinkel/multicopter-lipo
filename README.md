@@ -4,7 +4,7 @@ Multicopter LiPo Tools
 Copyright
 ---------
 (C) 2015 Jeff Walter <jeff@404ster.com>, http://jwalter.sh/  
-(C) 2012 Jelle Rinkel <multicopter@forestblue.nl>, http://multicopter.forestblue.nl/
+(C) 2012 http://multicopter.forestblue.nl/
 
 License
 -------
